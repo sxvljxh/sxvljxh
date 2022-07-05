@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sxvljxh
 - 👀 I’m interested in the universe
-- 🌱 I’m currently learning Azure DevOps.
+- 🌱 I’m currently learning Typescript + Next.js
 
 <!---
 sxvljxh/sxvljxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
